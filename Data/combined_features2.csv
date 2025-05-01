@@ -1,4 +1,4 @@
-timestamp,src_mac,dst_mac,src_ip,dst_ip,opcode,is_broadcast,duplicates,requests,replies,packet_rate,multiple_macs,request_reply_ratio,label,session_id
+    timestamp,src_mac,dst_mac,src_ip,dst_ip,opcode,is_broadcast,duplicates,requests,replies,packet_rate,multiple_macs,request_reply_ratio,label,session_id
 1737294233.933342,00:ad:24:bf:9d:52,ff:ff:ff:ff:ff:ff,192.168.1.1,192.168.1.72,1,True,0,1,0,0,0,inf,0,N_2230.pcapng
 1737294259.323055,00:ad:24:bf:9d:52,ff:ff:ff:ff:ff:ff,192.168.1.1,192.168.1.72,1,True,0,1,0,0,0,inf,0,N_2230.pcapng
 1737294324.446376,00:ad:24:bf:9d:52,ff:ff:ff:ff:ff:ff,192.168.1.1,192.168.1.72,1,True,0,1,0,0,0,inf,0,N_2230.pcapng
